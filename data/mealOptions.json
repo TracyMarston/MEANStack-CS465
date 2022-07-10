@@ -1,0 +1,26 @@
+[
+	{
+		"name": "SeaFood Special",
+		"urlDetail": "meals",
+		"image": "seafoods.jpg",
+		"alt": "Photo of Seafood Options.",
+		"description": "<p> <span>Fried Salmon Special</span> I'm a product overview. Here you can write more information about your product. Buyers like to know ... </p>"
+	
+	},
+    {
+		"name": "Sumptuous Desserts",
+		"urlDetail": "meals",
+		"image": "desserts.jpg",
+		"alt": "Photo displaying delicous deserts.",
+		"description": "<p> <span>Choco Ice Cream Sandwich</span> I'm a product overview. Here you can write more information about your product. Buyers like to know ... </p>"
+	
+	},
+    {
+		"name": "Buffet",
+		"urlDetail": "meals",
+		"image": "buffet.jpg",
+		"alt": "Photo showing a buffet with different food options.",
+		"description": "<p> <span>Mixed Buffet</span> I'm a product overview. Here you can write more information about your product. Buyers like to know ... </p>"
+	
+	}
+]

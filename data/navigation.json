@@ -1,0 +1,15 @@
+[
+    {"name": "Home",
+    "url": "/" },
+    {"name": "Travel",
+    "url": "/travel"},
+    {"name": "Rooms",
+    "url": "/rooms"},
+    {"name": "Meals",
+     "url": "/meals"},
+    {"name": "News",
+    "url": "/news"}, 
+    {"name": "Contact",
+    "url": "/contact"}  
+
+]
