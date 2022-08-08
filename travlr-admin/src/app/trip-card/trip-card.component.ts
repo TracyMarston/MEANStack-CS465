@@ -8,6 +8,7 @@ import { Trip } from "../models/trip";
   styleUrls: ["./trip-card.component.css"],
 })
 export class TripCardComponent implements OnInit {
+  
   @Input("trip") trip: any;
   constructor(private router: Router) {}
 
@@ -19,4 +20,3 @@ export class TripCardComponent implements OnInit {
     this.router.navigate(["edit-trip"]);
   }
 }
-
