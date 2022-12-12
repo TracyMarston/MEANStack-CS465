@@ -6,7 +6,7 @@
   
   <li>Migratestatic HTML to Handlebars (HTML -> HBS):
     <ul>
-      <li>Headers, Footers and content areas
+      <li>Headers, Footers and content areas</li>
     </ul>
   </li>
   <li>Create App_Server Directory to hold: Models, Views, Controller (MVC), and Routes.
@@ -15,7 +15,6 @@
       <li>View - Move Handlebars files into views. Add partials directory for reuseable code. Convert to handlebars template tags </li>
       <li>Controller - Move main.js into this folder for future controller functions</li>
       <li>Routes - Establish information for coresponding pages to load content</li>
-  
     </ul>
   </li>
   <li>Update App.js with new router path to the new app_server and instantiate handlebars.</li>
