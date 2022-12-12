@@ -1,7 +1,7 @@
 <h2>Module 4: NoSQL Databases, Models, and Schemas</h2>
-Languages and other: Angular, Express, Node, Handlebars, JSON, and Mongoose
-Database: MongoDB
-Tools: Visual Code Studio and MongoDB Compass
+Languages and other: Angular, Express, Node, Handlebars, JSON, and Mongoose<br />
+Database: MongoDB<br />
+Tools: Visual Code Studio and MongoDB Compass<br />
 <ul>
  <li>Install mongoose and Setup Schema for content</li>
   <li>Adjust json file to accomodate new schema inpreparation for seeding the database.</li>
