@@ -12,6 +12,7 @@ Tools: Visual Code Studio and POSTMAN</p>
   <li>Generate components via command line</li>
   <li>Update Json from data directory and move to app</li>
   <li>Store local json in array to test out angular notation template tags</li>
+  <li>Refactor handlebars to angular notation</li>
   <li>Install Bootstrap and setup Cards for content pieces</li>
   <li>Update app.js with CORS Headers for localhost to share with port 4200.</li>
 </ul>
