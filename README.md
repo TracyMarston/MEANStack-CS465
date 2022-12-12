@@ -1,1 +1,18 @@
-# cs465-fullstack
+<h2>Module 6: Single Page Application (SPA) </h2>
+
+<p>Languages and other: Angular(CLI), Express, Handlebars, Mongoose, and Bootstrap<br />
+Database: MongoDB<br />
+Tools: Visual Code Studio and POSTMAN</p>
+
+<ul>
+  <li>Install Angular CLI</li>
+  <li>Generate new directory for Admin</li>
+  <li>Migrate assests over to app directory</li>
+  <li>Test SPA by serving and running local host</li>
+  <li>Generate components via command line</li>
+  <li>Update Json from data directory and move to app</li>
+  <li>Store local json in array to test out angular notation template tags</li>
+  <li>Install Bootstrap and setup Cards for content pieces</li>
+  <li>Update app.js with CORS Headers for localhost to share with port 4200.</li>
+</ul>
+
