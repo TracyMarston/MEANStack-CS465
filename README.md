@@ -15,5 +15,10 @@ Tools: Visual Code Studio and POSTMAN</p>
   <li>Refactor handlebars to angular notation</li>
   <li>Install Bootstrap and setup Cards for content pieces</li>
   <li>Update app.js with CORS Headers for localhost to share with port 4200.</li>
+  <li>Create a service to interact with API requests</li>
+  <li>Create Add and Edit pages for trips</li>
+  <li>Update controller with CRUD functions - Create and Update </li>
+  <li>Test endpoints with POSTMAN</li>
+  
 </ul>
 
